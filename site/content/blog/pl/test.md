@@ -11,5 +11,5 @@ date: 2015-01-15T19:53:42.557Z
 type: post
 author: Kitty R.
 featuredalt: Image hosted by Cloudinary
-language: en
+language: pl
 ---
