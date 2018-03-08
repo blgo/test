@@ -3,10 +3,9 @@ title: Classic.
 description: >-
   A classic story about good people Kitty R. and Grandpa T. meet when they
   travel.
-destinations: Morocco
+destinations: Classasdasdas
 featured: 386526_2562951310509_1220752190_n_twrqk9.jpg
 featuredpath: cloudinary
-tag: morocco2
 date: 2015-01-15T19:53:42.557Z
 type: post
 author: Kitty R.
@@ -30,11 +29,10 @@ And Kitty R. loves travelling without a plan. Classic.
 
 \*(dialogues from Arabic translated by Grandpa T.)
 
-{{< fancybox "cloudinary" "1_1782162_10204633926225515_2774856572369525421_n_1_hhf3rj.jpg" " " "gallery" >}}
+{{< fancybox "cloudinary" "1_1782162_10204633926225515_2774856572369525421_n_1_hhf3rj.jpg" "   " "gallery" >}}
 
-{{< fancybox "cloudinary" "2_10264709_10204633926945533_6851904599870030670_n_suucxw.jpg" " " "gallery" >}}
+{{< fancybox "cloudinary" "2_10264709_10204633926945533_6851904599870030670_n_suucxw.jpg" "   " "gallery" >}}
 
-{{< fancybox "cloudinary" "10888542_10204660669574082_6784075800251099038_n_fbjfb1.jpg" " " "gallery" >}}
+{{< fancybox "cloudinary" "10888542_10204660669574082_6784075800251099038_n_fbjfb1.jpg" "   " "gallery" >}}
 
-{{< fancybox "cloudinary" "3_15922_10204660670174097_4927097105764048736_n_er9mhy.jpg" " " "gallery" >}}
-
+{{< fancybox "cloudinary" "3_15922_10204660670174097_4927097105764048736_n_er9mhy.jpg" "   " "gallery" >}}
