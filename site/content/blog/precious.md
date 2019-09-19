@@ -12,4 +12,6 @@ language: en
 ---
 ![](https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/v1568933637/DSCF5491_netwqf.jpg)
 
-{{< fancybox "cloudinary" "asdasdasdsa.jpg" " undefined" "gallery" >}}
+![](https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/v1568933637/DSCF5491_netwqf.jpg)
+
+{{< fancybox "cloudinary" "asdasdasdsa.jpg" "  undefined" "gallery" >}}
